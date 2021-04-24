@@ -1,0 +1,1 @@
+Simple Golang App with Hexagonal Architecture
